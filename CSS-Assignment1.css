@@ -1,0 +1,16 @@
+﻿.bg-heading {
+    background-color: deepskyblue;
+    padding: 15px;
+}
+.bg-para1{
+    background-color:gray;
+    padding:15px;
+}
+.bg-para2{
+    background-color:aqua;
+    padding:15px;
+}
+.bg-container {
+    background-color: aqua;
+    padding: 15px;
+}

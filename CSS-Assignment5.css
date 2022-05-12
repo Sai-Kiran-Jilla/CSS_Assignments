@@ -1,0 +1,10 @@
+﻿.body
+{
+
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+.body2{
+    border-collapse:collapse;
+}

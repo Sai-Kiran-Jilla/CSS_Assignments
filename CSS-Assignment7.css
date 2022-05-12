@@ -1,0 +1,12 @@
+﻿.br1
+{
+    border-color:coral;
+    border-width:1px;
+    border-style:solid;
+    padding:50px;
+}
+.br2{
+    border-color:greenyellow;
+    border-style:dotted;
+    border-width:5px;
+}
